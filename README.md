@@ -1,7 +1,7 @@
 # AgX Color Manager for Blender
 
 ## Overview
-AgX Color Manager is a professional color management system addon for Blender that provides advanced control over color grading and image processing. This addon implements the AgX color science for accurate and cinematic results.
+AgX Color Manager is a color management system addon for Blender that provides advanced control over color grading and image processing. This addon implements the AgX color science for accurate and cinematic results.
 
 ## Features
 - Automatic AgX color management setup
